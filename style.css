@@ -1,0 +1,38 @@
+/* Make images smaller */
+img {
+  max-width: 200px;
+}
+
+/* Make headline uppercase */
+h1 {
+  text-transform: uppercase;
+  font-family: Georgia, serif;
+}
+
+/* Caption gray */
+figcaption {
+  color: gray;
+  font-family: Georgia, serif;
+  font-size: 0.9em;
+}
+
+/* Make body text Georgia */
+body {
+  font-family: Georgia, serif;
+}
+
+/* Footer gray */
+footer {
+  color: gray;
+  font-family: Georgia, serif;
+}
+
+/* Democrat = blue, Republican = red */
+.democrat {
+  color: blue;
+  font-weight: bold;
+}
+.republican {
+  color: red;
+  font-weight: bold;
+}
